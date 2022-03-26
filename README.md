@@ -1,3 +1,6 @@
+# GO USE LUANA INSTEAD!!!
+LINK [HERE](https://github.com/pozm/lua-importer)
+this will not be updated anymore in favour of luana.
 # lua-importer
 Imports lua from other files
 
